@@ -1,6 +1,0 @@
-1. create new repositorty
-2. git clone https://github.com/Kim-hyun-jin/zins_zip.github.io.git (local: C:\Users\jinny)
-3. cd zins_zip.github.io
-   git add -A (All) : 변경사항을 staging(저장을 확정하기 전 중간 단계)에 저장하되, 변경된 모든(-A, All) 내용을 저장한다는 명령어
-   git commit -m(message) "test commit" : commit은 변경사항을 확정하는 것
-   git push
